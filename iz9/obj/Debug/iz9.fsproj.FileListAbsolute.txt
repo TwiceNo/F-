@@ -22,6 +22,7 @@ D:\repos\F#\iz9\bin\Debug\zh-Hant\FSharp.Core.resources.dll
 D:\repos\F#\iz9\obj\Debug\iz9.fsproj.CopyComplete
 D:\repos\F#\iz9\obj\Debug\iz9.exe
 D:\repos\F#\iz9\obj\Debug\iz9.pdb
+<<<<<<< HEAD
 D:\repos\Functional\iz9\bin\Debug\iz9.exe.config
 D:\repos\Functional\iz9\bin\Debug\iz9.XML
 D:\repos\Functional\iz9\bin\Debug\iz9.exe
@@ -46,3 +47,5 @@ D:\repos\Functional\iz9\obj\Debug\iz9.fsprojAssemblyReference.cache
 D:\repos\Functional\iz9\obj\Debug\iz9.fsproj.CopyComplete
 D:\repos\Functional\iz9\obj\Debug\iz9.exe
 D:\repos\Functional\iz9\obj\Debug\iz9.pdb
+=======
+>>>>>>> master
